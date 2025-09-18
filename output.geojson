@@ -62,6 +62,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.70376906,
+          43.70804541
+        ]
+      },
+      "properties": {
+        "Id": 1376,
+        "ServiceLanguage": "English",
+        "LocationName": "Aloma Crescent Public School EarlyON",
+        "FrenchLocationName": "Aloma Crescent Public School EarlyON",
+        "Description": null,
+        "FrenchDescription": null,
+        "StartDate": null,
+        "EndDate": null,
+        "ServiceSystemManagerName": "Region of Peel",
+        "Locationtype": "Centre",
+        "PreRegProgram": "No",
+        "LocationAdministratorEmail": "fsond@theindigenousnetwork.com",
+        "IndigenousProgram": "Yes",
+        "FrenchProgram": "No",
+        "LocatedInSchool": "Yes",
+        "School": "Aloma Crescent P.S. (Pub, Bram)",
+        "FullAddress": "57 Aloma Crescent ;  ; Brampton ; L6T 2T9 |",
+        "TypeOfHours": "Part-Time Hours",
+        "HoursOfOperation": "Monday:  9:30AM -  1:30PM | Tuesday:  9:30AM -  1:30PM | Wednesday:  9:30AM -  1:30PM | Thursday:  9:30AM -  1:30PM | Friday:  9:30AM -  1:30PM",
+        "VirtualLocation": null,
+        "VirtualURL": null,
+        "WebsiteName": null,
+        "WebsiteNameFrench": null,
+        "WebsiteDescription": null,
+        "WebsiteDescriptionFrench": null,
+        "WebsiteServices": "",
+        "LocationPhone": "",
+        "LocationPhoneTTY": "",
+        "AppName": null,
+        "AppFrenchName": null,
+        "AppDescription": null,
+        "AppFrenchDescription": null,
+        "AppAccess": null,
+        "AppFrenchAccess": null,
+        "AppServices": "",
+        "Email": "fsond@theindigenousnetwork.com",
+        "WebsiteURL": "www.infopeel.ca/earlyon/",
+        "Telephone": "",
+        "Extension": "",
+        "CaseworkerFirstName": "Denise",
+        "CaseworkerLastName": "Plinton",
+        "CaseworkerJobTitle": "Early Years System Advisor",
+        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
+        "CaseworkerPhone": "(416) 450-5093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.06414697,
           43.85880192
         ]
