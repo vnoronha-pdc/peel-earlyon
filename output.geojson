@@ -78,7 +78,7 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "fsond@theindigenousnetwork.com",
+        "LocationAdministratorEmail": "aloma@theindigenousnetwork.com",
         "IndigenousProgram": "Yes",
         "FrenchProgram": "No",
         "LocatedInSchool": "Yes",
@@ -102,9 +102,9 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "fsond@theindigenousnetwork.com",
+        "Email": "aloma@theindigenousnetwork.com",
         "WebsiteURL": "www.infopeel.ca/earlyon/",
-        "Telephone": "",
+        "Telephone": "(647) 594-4726",
         "Extension": "",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
@@ -174,8 +174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.78976478316892,
-          43.635233393878885
+          -79.79160626076872,
+          43.636659237408594
         ]
       },
       "properties": {
@@ -286,8 +286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.58749398,
-          43.61827653
+          -79.58707747610897,
+          43.61864090139141
         ]
       },
       "properties": {
@@ -421,7 +421,7 @@
         "School": "",
         "FullAddress": "6215 Old Church Road ;  ; Caledon ; L7C 1J7 |",
         "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Tuesday:  9:30AM - 12:00PM ;  1:00PM -  3:00PM | Thursday:  9:30AM - 12:00PM ;  1:00PM -  3:00PM",
+        "HoursOfOperation": "Tuesday:  9:30AM - 12:00PM ;  1:00PM -  3:00PM | Thursday:  9:30AM - 12:00PM ;  1:00PM -  3:00PM | Friday:  9:30AM - 11:30AM | Saturday:  9:00AM -  1:00PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -497,62 +497,6 @@
         "Email": "info@bridgewaycentre.ca",
         "WebsiteURL": "www.infopeel.ca/eon/",
         "Telephone": "(647) 803-6175",
-        "Extension": "",
-        "CaseworkerFirstName": "Denise",
-        "CaseworkerLastName": "Plinton",
-        "CaseworkerJobTitle": "Early Years System Advisor",
-        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
-        "CaseworkerPhone": "(416) 450-5093"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.91605813,
-          43.74761503
-        ]
-      },
-      "properties": {
-        "Id": 1225,
-        "ServiceLanguage": "English",
-        "LocationName": "Cheltenham Community Centre EarlyON",
-        "FrenchLocationName": "Cheltenham Community Centre EarlyON",
-        "Description": null,
-        "FrenchDescription": null,
-        "StartDate": "2024/11/15",
-        "EndDate": null,
-        "ServiceSystemManagerName": "Region of Peel",
-        "Locationtype": "Mobile",
-        "PreRegProgram": "No",
-        "LocationAdministratorEmail": "info@brightstartcaledon.com",
-        "IndigenousProgram": "No",
-        "FrenchProgram": "No",
-        "LocatedInSchool": "No",
-        "School": "",
-        "FullAddress": "14190 Creditview Road ;  ; Caledon ; L7C 1Y4 |",
-        "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Wednesday:  1:00PM -  3:00PM",
-        "VirtualLocation": null,
-        "VirtualURL": null,
-        "WebsiteName": null,
-        "WebsiteNameFrench": null,
-        "WebsiteDescription": null,
-        "WebsiteDescriptionFrench": null,
-        "WebsiteServices": "",
-        "LocationPhone": "",
-        "LocationPhoneTTY": "",
-        "AppName": null,
-        "AppFrenchName": null,
-        "AppDescription": null,
-        "AppFrenchDescription": null,
-        "AppAccess": null,
-        "AppFrenchAccess": null,
-        "AppServices": "",
-        "Email": "info@brightstartcaledon.com",
-        "WebsiteURL": "www.infopeel.ca/eon/",
-        "Telephone": "(905) 857-0090",
         "Extension": "",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
@@ -806,7 +750,7 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "CarolVasile@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "No",
@@ -830,10 +774,10 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "CarolVasile@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
-        "Extension": "",
+        "Extension": "2",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
         "CaseworkerJobTitle": "Early Years System Advisor",
@@ -862,7 +806,7 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "navneet@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "No",
@@ -886,10 +830,10 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "navneet@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
-        "Extension": "",
+        "Extension": "5",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
         "CaseworkerJobTitle": "Early Years System Advisor",
@@ -958,8 +902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.63199991,
-          43.58750312
+          -79.63197854543118,
+          43.58765539360931
         ]
       },
       "properties": {
@@ -1037,7 +981,7 @@
         "School": "Floradale P.S. (Pub, Miss)",
         "FullAddress": "210 Paisley Boulevard West ;  ; Mississauga ; L5B 3E3 |",
         "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Monday:  9:00AM -  2:30PM | Tuesday:  9:00AM -  2:30PM | Wednesday:  9:00AM -  2:30PM | Thursday:  9:00AM -  2:30PM | Friday:  9:00AM -  2:30PM",
+        "HoursOfOperation": "Monday:  9:00AM -  1:30PM | Tuesday:  9:00AM -  1:30PM | Wednesday:  9:00AM -  1:30PM | Thursday:  9:00AM -  1:30PM | Friday:  9:00AM -  1:30PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -1070,8 +1014,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.7576324,
-          43.68757216
+          -79.75792504727126,
+          43.68765935157509
         ]
       },
       "properties": {
@@ -1079,7 +1023,7 @@
         "ServiceLanguage": "English",
         "LocationName": "Four Corners Library EarlyON",
         "FrenchLocationName": "Four Corners Library EarlyON",
-        "Description": "",
+        "Description": null,
         "FrenchDescription": null,
         "StartDate": "2024/11/15",
         "EndDate": null,
@@ -1317,7 +1261,7 @@
         "School": "Hickory Wood P.S. (Pub, Bram)",
         "FullAddress": "630 Ray Lawson Boulevard ;  ; Brampton ; L6Y 4W8 |",
         "TypeOfHours": "Full-Time Hours",
-        "HoursOfOperation": "Monday: 10:00AM -  2:00PM | Tuesday:  9:30AM -  2:30PM | Wednesday:  9:30AM -  2:30PM | Thursday:  9:30AM -  2:30PM ;  1:00PM -  4:00PM | Friday:  9:30AM -  2:30PM",
+        "HoursOfOperation": "Monday: 10:00AM -  2:00PM | Tuesday:  9:30AM -  2:30PM | Wednesday:  9:30AM -  2:30PM | Thursday:  9:30AM -  2:30PM | Friday:  9:30AM -  2:30PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -1574,6 +1518,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.83350365766977,
+          43.74394904847666
+        ]
+      },
+      "properties": {
+        "Id": 1445,
+        "ServiceLanguage": "English",
+        "LocationName": "Margaret Dunn Valleywood EarlyON",
+        "FrenchLocationName": "Margaret Dunn Valleywood EarlyON",
+        "Description": null,
+        "FrenchDescription": null,
+        "StartDate": "2026/01/04",
+        "EndDate": null,
+        "ServiceSystemManagerName": "Region of Peel",
+        "Locationtype": "Mobile",
+        "PreRegProgram": "No",
+        "LocationAdministratorEmail": "info@brightstartcaledon.com",
+        "IndigenousProgram": "No",
+        "FrenchProgram": "No",
+        "LocatedInSchool": "No",
+        "School": "",
+        "FullAddress": "20 Snelcrest Drive  ;  ; Caledon ; L7C 1B5 |",
+        "TypeOfHours": "Part-Time Hours",
+        "HoursOfOperation": "Wednesday:  1:00PM -  3:00PM",
+        "VirtualLocation": null,
+        "VirtualURL": null,
+        "WebsiteName": null,
+        "WebsiteNameFrench": null,
+        "WebsiteDescription": null,
+        "WebsiteDescriptionFrench": null,
+        "WebsiteServices": "",
+        "LocationPhone": "",
+        "LocationPhoneTTY": "",
+        "AppName": null,
+        "AppFrenchName": null,
+        "AppDescription": null,
+        "AppFrenchDescription": null,
+        "AppAccess": null,
+        "AppFrenchAccess": null,
+        "AppServices": "",
+        "Email": "info@brightstartcaledon.com",
+        "WebsiteURL": null,
+        "Telephone": "(905) 857-0090",
+        "Extension": "",
+        "CaseworkerFirstName": "Denise",
+        "CaseworkerLastName": "Plinton",
+        "CaseworkerJobTitle": "Early Years System Advisor",
+        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
+        "CaseworkerPhone": "(416) 450-5093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.74640604,
           43.73818573
         ]
@@ -1646,7 +1646,7 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "navneet@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "No",
@@ -1670,10 +1670,10 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "navneet@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
-        "Extension": "",
+        "Extension": "4",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
         "CaseworkerJobTitle": "Early Years System Advisor",
@@ -1742,8 +1742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.76785833,
-          43.68641524
+          -79.7673526165923,
+          43.686594121206284
         ]
       },
       "properties": {
@@ -1758,7 +1758,7 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "Krystle@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "No",
@@ -1782,10 +1782,10 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "Krystle@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
-        "Extension": "",
+        "Extension": "1",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
         "CaseworkerJobTitle": "Early Years System Advisor",
@@ -1982,7 +1982,7 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Mobile",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "Krystle@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "No",
@@ -2006,7 +2006,7 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "Krystle@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
         "Extension": "",
@@ -2101,7 +2101,7 @@
         "School": "Nahani Way P.S. (Pub, Miss)",
         "FullAddress": "235 Nahani Way ;  ; Mississauga ; L4Z 3J6 |",
         "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Tuesday:  9:30AM - 11:30AM | Wednesday:  9:30AM - 11:30AM | Thursday:  9:30AM - 11:30AM | Friday:  9:30AM - 11:30AM",
+        "HoursOfOperation": "Tuesday:  9:30AM - 11:30AM | Thursday:  9:30AM - 11:30AM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -2134,8 +2134,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.72753878,
-          43.81319305
+          -79.72751252905587,
+          43.813274859274195
         ]
       },
       "properties": {
@@ -2358,8 +2358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2854883334658,
-          43.92959310315614
+          -79.66373093540899,
+          43.618301095819206
         ]
       },
       "properties": {
@@ -2401,62 +2401,6 @@
         "Email": null,
         "WebsiteURL": null,
         "Telephone": "(647) 466-4988",
-        "Extension": "",
-        "CaseworkerFirstName": "Denise",
-        "CaseworkerLastName": "Plinton",
-        "CaseworkerJobTitle": "Early Years System Advisor",
-        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
-        "CaseworkerPhone": "(416) 450-5093"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.61197716798706,
-          43.60725717162225
-        ]
-      },
-      "properties": {
-        "Id": 1255,
-        "ServiceLanguage": "English",
-        "LocationName": "Silverthorn Public School EarlyON",
-        "FrenchLocationName": "Silverthorn Public School EarlyON",
-        "Description": null,
-        "FrenchDescription": null,
-        "StartDate": "2025/06/30",
-        "EndDate": "2025/08/16",
-        "ServiceSystemManagerName": "Region of Peel",
-        "Locationtype": "Centre",
-        "PreRegProgram": "No",
-        "LocationAdministratorEmail": null,
-        "IndigenousProgram": "No",
-        "FrenchProgram": "No",
-        "LocatedInSchool": "No",
-        "School": "",
-        "FullAddress": "3535 Cedar Creek Drive ;  ; Mississauga ; L4Y 2Y4 |",
-        "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "HH:MM",
-        "VirtualLocation": null,
-        "VirtualURL": null,
-        "WebsiteName": null,
-        "WebsiteNameFrench": null,
-        "WebsiteDescription": null,
-        "WebsiteDescriptionFrench": null,
-        "WebsiteServices": "",
-        "LocationPhone": "",
-        "LocationPhoneTTY": "",
-        "AppName": null,
-        "AppFrenchName": null,
-        "AppDescription": null,
-        "AppFrenchDescription": null,
-        "AppAccess": null,
-        "AppFrenchAccess": null,
-        "AppServices": "",
-        "Email": null,
-        "WebsiteURL": "https://infopeel.ca/eon/",
-        "Telephone": "",
         "Extension": "",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
@@ -2542,7 +2486,7 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "Krystle@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "Yes",
@@ -2566,10 +2510,10 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "Krystle@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
-        "Extension": "",
+        "Extension": "1",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
         "CaseworkerJobTitle": "Early Years System Advisor",
@@ -2582,8 +2526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.82672005,
-          43.7565686
+          -79.82686563040019,
+          43.756550541546176
         ]
       },
       "properties": {
@@ -2605,7 +2549,7 @@
         "School": "",
         "FullAddress": "225 Dougall Avenue ;  ; Caledon ; L7C 2H1 |",
         "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Monday:  9:00AM - 12:00PM ;  1:00PM -  3:00PM | Tuesday:  9:00AM - 12:00PM ;  1:00PM -  3:00PM | Wednesday:  1:00PM -  4:00PM | Thursday:  9:00AM - 12:00PM ;  1:00PM -  4:00PM | Friday:  9:00AM - 12:00PM | Saturday:  9:00AM -  1:00PM",
+        "HoursOfOperation": "Monday:  9:00AM - 12:00PM ;  1:00PM -  3:00PM | Tuesday:  9:00AM - 12:00PM ;  1:00PM -  3:00PM | Wednesday:  9:00AM - 12:00PM | Thursday:  9:00AM - 12:00PM ;  1:00PM -  4:00PM | Saturday:  9:00AM -  1:00PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -2661,7 +2605,7 @@
         "School": "",
         "FullAddress": "55 Mountainash Road, Unit 7 ;  ; Brampton ; L6R 1W4 |",
         "TypeOfHours": "Full-Time Hours",
-        "HoursOfOperation": "Monday:  9:00AM - 12:00PM ;  1:00PM -  4:00PM | Tuesday: 10:00AM - 11:00AM ;  1:00PM -  4:00PM | Wednesday:  1:00PM -  4:00PM ;  6:00PM -  7:30PM | Thursday:  9:00AM - 12:00PM ;  1:00PM -  4:00PM | Friday:  9:00AM - 12:00PM ;  1:00PM -  4:00PM",
+        "HoursOfOperation": "Monday:  9:00AM - 12:00PM ;  1:00PM -  4:00PM | Tuesday: 10:00AM - 11:00AM ;  1:00PM -  4:00PM | Wednesday:  1:00PM -  4:00PM ;  6:00PM -  7:30PM | Thursday:  9:00AM - 12:00PM ;  1:00PM -  4:00PM | Friday:  9:00AM - 12:00PM ;  1:00PM -  2:30PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -2750,8 +2694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.67360507,
-          43.58186283
+          -79.67340548553645,
+          43.58190425297922
         ]
       },
       "properties": {
@@ -2773,7 +2717,7 @@
         "School": "St. Bernadette (Cath, Miss)",
         "FullAddress": "1060 White Clover Way ;  ; Mississauga ; L5V 1G7 |",
         "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Tuesday:  9:30AM - 11:15AM ;  1:00PM -  3:00PM | Wednesday:  9:30AM - 11:15AM ;  1:00PM -  3:00PM | Thursday:  9:30AM - 11:15AM ;  1:00PM -  3:00PM | Friday:  9:30AM - 11:15AM ;  1:00PM -  3:00PM",
+        "HoursOfOperation": "Tuesday:  9:00AM - 11:15AM ;  1:00PM -  3:00PM | Wednesday:  9:00AM - 11:15AM ;  1:00PM -  3:00PM | Thursday:  9:00AM - 11:15AM ;  1:00PM -  3:00PM | Friday:  9:00AM - 11:15AM ;  1:00PM -  3:00PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -2822,14 +2766,14 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "Krystle@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "Yes",
         "School": "St. Jean-Marie V E.S. (Cath, Bram)",
         "FullAddress": "75 Jordensen Drive ;  ; Brampton ; L6X 0S1 |",
         "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Tuesday:  9:00AM - 12:00PM",
+        "HoursOfOperation": "Tuesday:  9:00AM - 12:00PM ; 12:30PM -  3:30PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -2846,7 +2790,7 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "Krystle@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
         "Extension": "",
@@ -2974,8 +2918,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.75818488,
-          43.76054036
+          -79.75820664726831,
+          43.76065339990711
         ]
       },
       "properties": {
@@ -3030,8 +2974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.71742382,
-          43.58243955
+          -79.71558776077099,
+          43.58214466414714
         ]
       },
       "properties": {
@@ -3107,7 +3051,7 @@
         "FrenchProgram": "No",
         "LocatedInSchool": "Yes",
         "School": "Tomken Road Sr. P.S. (Pub, Miss)",
-        "FullAddress": "3160 Tomken Road ;  ; Mississauga   ; L5J 1J6 |",
+        "FullAddress": "3160 Tomken Road ;  ; Mississauga   ; L4Y 2Y6 |",
         "TypeOfHours": "Part-Time Hours",
         "HoursOfOperation": "Monday:  8:45AM - 12:45PM ;  1:30PM -  4:30PM | Tuesday:  1:30PM -  4:30PM ;  8:45AM - 12:45PM | Wednesday:  8:45AM -  1:00PM | Thursday:  8:45AM -  1:15PM | Friday:  8:45AM -  1:15PM",
         "VirtualLocation": null,
@@ -3198,8 +3142,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.756392,
-          43.702615
+          -79.75537553170031,
+          43.70229958463931
         ]
       },
       "properties": {
@@ -3254,8 +3198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.63709817116461,
-          43.71898211423524
+          -79.63732277587853,
+          43.719789514181045
         ]
       },
       "properties": {
@@ -3326,14 +3270,14 @@
         "ServiceSystemManagerName": "Region of Peel",
         "Locationtype": "Centre",
         "PreRegProgram": "No",
-        "LocationAdministratorEmail": "earlyon@cdrcp.com",
+        "LocationAdministratorEmail": "navneet@cdrcp.com",
         "IndigenousProgram": "No",
         "FrenchProgram": "No",
         "LocatedInSchool": "No",
         "School": "",
         "FullAddress": "17 Worthington Avenue, Unit 27 ;  ; Brampton ; L7C 1B5 |",
         "TypeOfHours": "Part-Time Hours",
-        "HoursOfOperation": "Monday:  9:00AM - 12:00PM ; 12:30PM -  3:30PM | Tuesday:  9:00AM - 12:00PM ;  4:00PM -  7:30PM | Wednesday:  9:00AM - 12:00PM | Thursday:  9:00AM - 12:00PM ; 12:30PM -  3:30PM | Friday:  9:00AM -  1:00PM | Saturday:  9:30AM - 12:30PM",
+        "HoursOfOperation": "Monday:  9:00AM - 12:00PM ; 12:30PM -  3:30PM | Tuesday:  9:00AM - 12:00PM ;  4:00PM -  7:30PM | Wednesday:  9:00AM - 12:00PM | Thursday:  9:00AM - 12:00PM ; 12:30PM -  3:30PM | Friday:  9:00AM -  1:00PM | Saturday:  9:30AM -  1:00PM",
         "VirtualLocation": null,
         "VirtualURL": null,
         "WebsiteName": null,
@@ -3350,10 +3294,10 @@
         "AppAccess": null,
         "AppFrenchAccess": null,
         "AppServices": "",
-        "Email": "earlyon@cdrcp.com",
+        "Email": "navneet@cdrcp.com",
         "WebsiteURL": "https://infopeel.ca/eon/",
         "Telephone": "(905) 452-1973",
-        "Extension": "",
+        "Extension": "3",
         "CaseworkerFirstName": "Denise",
         "CaseworkerLastName": "Plinton",
         "CaseworkerJobTitle": "Early Years System Advisor",
