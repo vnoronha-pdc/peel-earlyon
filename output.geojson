@@ -118,6 +118,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.70599146719076,
+          43.70311191877114
+        ]
+      },
+      "properties": {
+        "Id": 1480,
+        "ServiceLanguage": "English",
+        "LocationName": "Birchbank Public School EarlyON",
+        "FrenchLocationName": "Birchbank Public School EarlyON",
+        "Description": null,
+        "FrenchDescription": null,
+        "StartDate": null,
+        "EndDate": null,
+        "ServiceSystemManagerName": "Region of Peel",
+        "Locationtype": "Centre",
+        "PreRegProgram": "No",
+        "LocationAdministratorEmail": "aloma@theindigenousnetwork.com",
+        "IndigenousProgram": "No",
+        "FrenchProgram": "No",
+        "LocatedInSchool": "Yes",
+        "School": "Birchbank P.S. (Pub, Bram)",
+        "FullAddress": "52 Birchbank Road  ;  ; Brampton  ; L6T 1L7 |",
+        "TypeOfHours": "Part-Time Hours",
+        "HoursOfOperation": "Monday:  9:00AM -  1:00PM | Tuesday:  9:00AM -  1:00PM | Wednesday:  9:00AM -  1:00PM | Thursday:  9:00AM -  1:00PM",
+        "VirtualLocation": null,
+        "VirtualURL": null,
+        "WebsiteName": null,
+        "WebsiteNameFrench": null,
+        "WebsiteDescription": null,
+        "WebsiteDescriptionFrench": null,
+        "WebsiteServices": "",
+        "LocationPhone": "",
+        "LocationPhoneTTY": "",
+        "AppName": null,
+        "AppFrenchName": null,
+        "AppDescription": null,
+        "AppFrenchDescription": null,
+        "AppAccess": null,
+        "AppFrenchAccess": null,
+        "AppServices": "",
+        "Email": "aloma@theindigenousnetwork.com",
+        "WebsiteURL": null,
+        "Telephone": "(647) 594-4726",
+        "Extension": "",
+        "CaseworkerFirstName": "Denise",
+        "CaseworkerLastName": "Plinton",
+        "CaseworkerJobTitle": "Early Years System Advisor",
+        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
+        "CaseworkerPhone": "(416) 450-5093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.79160626076872,
           43.636659237408594
         ]
