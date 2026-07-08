@@ -2470,6 +2470,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.60939087449418,
+          43.57481502009583
+        ]
+      },
+      "properties": {
+        "Id": 1400,
+        "ServiceLanguage": "English",
+        "LocationName": "St. Catherine of Siena Catholic School EarlyON",
+        "FrenchLocationName": "St. Catherine of Siena Catholic School EarlyON",
+        "Description": null,
+        "FrenchDescription": null,
+        "StartDate": "2025/07/09",
+        "EndDate": "2025/08/13",
+        "ServiceSystemManagerName": "Region of Peel",
+        "Locationtype": "Centre",
+        "PreRegProgram": "No",
+        "LocationAdministratorEmail": null,
+        "IndigenousProgram": "No",
+        "FrenchProgram": "No",
+        "LocatedInSchool": "Yes",
+        "School": "St. Catherine of Siena (Cath, Miss)",
+        "FullAddress": "2350 Hurontario Street ;  ; Mississauga  ; L5B 1N1 |",
+        "TypeOfHours": "Part-Time Hours",
+        "HoursOfOperation": "Monday:  9:00AM -  1:30PM | Tuesday:  9:00AM -  1:30PM | Wednesday:  9:00AM -  1:30PM | Thursday:  9:00AM -  1:30PM | Friday:  9:00AM -  1:30PM",
+        "VirtualLocation": null,
+        "VirtualURL": null,
+        "WebsiteName": null,
+        "WebsiteNameFrench": null,
+        "WebsiteDescription": null,
+        "WebsiteDescriptionFrench": null,
+        "WebsiteServices": "",
+        "LocationPhone": "",
+        "LocationPhoneTTY": "",
+        "AppName": null,
+        "AppFrenchName": null,
+        "AppDescription": null,
+        "AppFrenchDescription": null,
+        "AppAccess": null,
+        "AppFrenchAccess": null,
+        "AppServices": "",
+        "Email": null,
+        "WebsiteURL": null,
+        "Telephone": "",
+        "Extension": "",
+        "CaseworkerFirstName": "Denise",
+        "CaseworkerLastName": "Plinton",
+        "CaseworkerJobTitle": "Early Years System Advisor",
+        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
+        "CaseworkerPhone": "(416) 450-5093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.5792361305739,
           43.57347258429787
         ]
