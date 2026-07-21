@@ -230,6 +230,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.7439271,
+          43.56004691
+        ]
+      },
+      "properties": {
+        "Id": 1129,
+        "ServiceLanguage": "English",
+        "LocationName": "Brittany Glen EarlyON",
+        "FrenchLocationName": "Brittany Glen EarlyON",
+        "Description": null,
+        "FrenchDescription": null,
+        "StartDate": "2024/11/15",
+        "EndDate": null,
+        "ServiceSystemManagerName": "Region of Peel",
+        "Locationtype": "Centre",
+        "PreRegProgram": "No",
+        "LocationAdministratorEmail": "info@bridgewaycentre.ca",
+        "IndigenousProgram": "No",
+        "FrenchProgram": "No",
+        "LocatedInSchool": "No",
+        "School": "",
+        "FullAddress": "5632 Tenth Line West, Unit G1 ;  ; Mississauga ; L5M 7L9 |",
+        "TypeOfHours": "Full-Time Hours",
+        "HoursOfOperation": "Monday:  9:00AM -  4:00PM | Tuesday:  9:00AM -  8:00PM | Wednesday:  9:00AM -  8:00PM | Thursday:  9:00AM -  8:00PM | Friday:  9:30AM -  4:00PM | Saturday:  9:00AM -  2:00PM",
+        "VirtualLocation": null,
+        "VirtualURL": null,
+        "WebsiteName": null,
+        "WebsiteNameFrench": null,
+        "WebsiteDescription": null,
+        "WebsiteDescriptionFrench": null,
+        "WebsiteServices": "",
+        "LocationPhone": "",
+        "LocationPhoneTTY": "",
+        "AppName": null,
+        "AppFrenchName": null,
+        "AppDescription": null,
+        "AppFrenchDescription": null,
+        "AppAccess": null,
+        "AppFrenchAccess": null,
+        "AppServices": "",
+        "Email": "info@bridgewaycentre.ca",
+        "WebsiteURL": "www.infopeel.ca/eon/",
+        "Telephone": "(905) 286-4455",
+        "Extension": "",
+        "CaseworkerFirstName": "Denise",
+        "CaseworkerLastName": "Plinton",
+        "CaseworkerJobTitle": "Early Years System Advisor",
+        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
+        "CaseworkerPhone": "(416) 450-5093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.86080221,
           43.87377042
         ]
